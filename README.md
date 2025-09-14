@@ -10,7 +10,7 @@ Over time, I will continue to share more of my work on this profile.
 
 ## 🚀 My Skills  
 - 🌐 Web Development  
-- 💻 HTML, CSS, JavaScript  
+- 💻 HTML, CSS, JavaScript, Git 
 - ⚙️ Backend Development  
 - 🛠️ Python, Django  
 
